@@ -1,2 +1,4 @@
-myprogram/**/*.o
-myprogram/**/*.exe
+Education_Lection/**/*.o
+Education_Lection/**/*.exe
+My_Project/**/*.exe
+My_Project/**/*.o
