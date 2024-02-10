@@ -1,2 +1,2 @@
-.o
-.exe
+myprogram/**/*.o
+myprogram/**/*.exe
