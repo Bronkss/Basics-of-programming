@@ -20,6 +20,7 @@
 ## Систематическое программирование
 
 1. Введение в CF Pascal
-    + Программа [PrintHello](printhello.pas) 
-2. Последовательное выполнение
-    + Программа [PrintHello2](printhello2.pas)
+    + 1.1 Программа [PrintHello](Education_Lection/printhello.pas) 
+    + 1.2 Последовательное выполнение
+        + Программа [PrintHello2](printhello2.pas)
+
